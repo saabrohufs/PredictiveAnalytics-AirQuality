@@ -9,6 +9,6 @@ PM2.5
 PM10
 ![image](https://github.com/user-attachments/assets/54734110-4813-4fab-9da9-dc21cd4efe7c)
 
-AIR QUALITY POLLUTANTS’ LABELED CLASSIFICATION
+**AIR QUALITY POLLUTANTS’ LABELED CLASSIFICATION**: data are preprocessed and labeled based on ranges given in the following table.
 
 ![image](https://github.com/user-attachments/assets/db9e64bf-4387-4ddd-bcee-c66645c22892)
