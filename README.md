@@ -8,3 +8,7 @@ PM2.5
 ![image](https://github.com/user-attachments/assets/f630b2ba-6ee9-4b83-b28b-5debdc1df44f)
 PM10
 ![image](https://github.com/user-attachments/assets/54734110-4813-4fab-9da9-dc21cd4efe7c)
+
+AIR QUALITY POLLUTANTS’ LABELED CLASSIFICATION
+
+![image](https://github.com/user-attachments/assets/db9e64bf-4387-4ddd-bcee-c66645c22892)
