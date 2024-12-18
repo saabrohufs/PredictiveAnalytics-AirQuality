@@ -15,6 +15,12 @@ Data are preprocessed and labeled based on ranges given in the following table.
 
 ### Dataset Description
 
+The table 2 shows the metadata and sample values that are gathered from the streaming data of the sensor
 
 ![image](https://github.com/user-attachments/assets/a2f4e3f7-0a13-4038-82f0-2e78527293e2)
 
+Note: Dataset is property of the private company's industrial site which cannot be shared without permission due to privacy reasons. 
+However, code provided can be used to reproduce approximate results if the following open source datasets are utilized subject to some preprocessing based on the metadata description provided.
+
+https://www.kaggle.com/datasets/hasibalmuzdadid/global-air-pollution-dataset
+https://www.kaggle.com/datasets/fedesoriano/air-quality-data-set
