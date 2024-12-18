@@ -11,12 +11,12 @@ PM10
 
 **AIR QUALITY POLLUTANTS’ LABELED CLASSIFICATION**: data are preprocessed and labeled based on ranges given in the following table.
 
-![image](https://github.com/user-attachments/assets/db9e64bf-4387-4ddd-bcee-c66645c22892)
+puts ![image](https://github.com/user-attachments/assets/db9e64bf-4387-4ddd-bcee-c66645c22892)
 
 
 <details>
 
-<summary>Tips for collapsed sections</summary>
+<summary>Note</summary>
 
 ### You can add a header
 
@@ -24,8 +24,6 @@ You can add text within a collapsed section.
 
 You can add an image or a code block, too.
 
-```ruby
-   puts "Hello World"
-```
+
 
 </details>
