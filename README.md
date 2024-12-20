@@ -19,11 +19,14 @@ The table 2 shows the metadata and sample values that are gathered from the stre
 
 ![image](https://github.com/user-attachments/assets/a2f4e3f7-0a13-4038-82f0-2e78527293e2)
 
+### A correlation matrix has been computed, as shown in the following figure
+
 ![image](https://github.com/user-attachments/assets/6a5c2d17-c93b-40cc-b6f3-0b9ac64165ea)
 
 
 
-Note: Dataset is property of the private company's industrial site which cannot be shared without permission due to privacy reasons. 
+### Note: 
+Dataset is property of the private company's industrial site which cannot be shared without permission due to privacy reasons. 
 However, code provided can be used to reproduce approximate results if the following open source datasets are utilized subject to some preprocessing based on the metadata description provided.
 
 https://www.kaggle.com/datasets/hasibalmuzdadid/global-air-pollution-dataset
